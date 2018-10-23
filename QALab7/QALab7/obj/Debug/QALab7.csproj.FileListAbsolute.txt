@@ -1,0 +1,8 @@
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\bin\Debug\QALab7.exe.config
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\obj\Debug\QALab7.csprojResolveAssemblyReference.cache
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\obj\Debug\QALab7.Properties.Resources.resources
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\obj\Debug\QALab7.csproj.GenerateResource.Cache
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\bin\Debug\QALab7.exe
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\bin\Debug\QALab7.pdb
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\obj\Debug\QALab7.exe
+c:\users\tug09022\documents\visual studio 2015\Projects\QALab7\QALab7\obj\Debug\QALab7.pdb
